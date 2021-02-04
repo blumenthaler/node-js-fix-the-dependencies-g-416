@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-04T20:33:59.818Z",
+    "end": "2021-02-04T20:33:59.828Z",
+    "duration": 10
+  },
+  "tests": [
+    {
+      "title": "logs the result of calling helloFlatiron()",
+      "fullTitle": "lib logs the result of calling helloFlatiron()",
+      "file": "/Users/alexdblumenthaler/node-js-fix-the-dependencies-g-416/test/index.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "logs some calls to five()",
+      "fullTitle": "lib logs some calls to five()",
+      "file": "/Users/alexdblumenthaler/node-js-fix-the-dependencies-g-416/test/index.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "logs the result of calling helloFlatiron()",
+      "fullTitle": "lib logs the result of calling helloFlatiron()",
+      "file": "/Users/alexdblumenthaler/node-js-fix-the-dependencies-g-416/test/index.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "logs some calls to five()",
+      "fullTitle": "lib logs some calls to five()",
+      "file": "/Users/alexdblumenthaler/node-js-fix-the-dependencies-g-416/test/index.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
